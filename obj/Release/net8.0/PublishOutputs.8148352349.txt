@@ -1,0 +1,7 @@
+C:\Users\Abdullah Chaudhary\source\repos\aspdotnetproj\aspdotnetproj\obj\Release\net8.0\PubTmp\Out\aspdotnetproj.exe
+C:\Users\Abdullah Chaudhary\source\repos\aspdotnetproj\aspdotnetproj\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Abdullah Chaudhary\source\repos\aspdotnetproj\aspdotnetproj\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Abdullah Chaudhary\source\repos\aspdotnetproj\aspdotnetproj\obj\Release\net8.0\PubTmp\Out\aspdotnetproj.dll
+C:\Users\Abdullah Chaudhary\source\repos\aspdotnetproj\aspdotnetproj\obj\Release\net8.0\PubTmp\Out\aspdotnetproj.deps.json
+C:\Users\Abdullah Chaudhary\source\repos\aspdotnetproj\aspdotnetproj\obj\Release\net8.0\PubTmp\Out\aspdotnetproj.runtimeconfig.json
+C:\Users\Abdullah Chaudhary\source\repos\aspdotnetproj\aspdotnetproj\obj\Release\net8.0\PubTmp\Out\aspdotnetproj.pdb
